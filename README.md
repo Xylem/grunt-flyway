@@ -132,7 +132,7 @@ Options' descriptions come from [Flyway's documentation](http://flywaydb.org/doc
 #### clean
 
 |option|required|default|description|
-|-|-|-|-|
+|------|--------|-------|-----------|
 |url|yes||The jdbc url to use to connect to the database|
 |driver|no|_Auto-detected based on url_|The fully qualified classname of the jdbc driver to use to connect to the database|
 |user|no||The user to use to connect to the database|
@@ -143,7 +143,7 @@ Options' descriptions come from [Flyway's documentation](http://flywaydb.org/doc
 #### init
 
 |option|required|default|description|
-|-|-|-|-|
+|------|--------|-------|-----------|
 |url|yes||The jdbc url to use to connect to the database|
 |driver|no|_Auto-detected based on url_|The fully qualified classname of the jdbc driver to use to connect to the database|
 |user|no||The user to use to connect to the database|
@@ -157,7 +157,7 @@ Options' descriptions come from [Flyway's documentation](http://flywaydb.org/doc
 #### migrate
 
 |option|required|default|description|
-|-|-|-|-|
+|------|--------|-------|-----------|
 |url|yes||The jdbc url to use to connect to the database|
 |driver|no|_Auto-detected based on url_|The fully qualified classname of the jdbc driver to use to connect to the database|
 |user|no||The user to use to connect to the database|
@@ -183,7 +183,7 @@ Options' descriptions come from [Flyway's documentation](http://flywaydb.org/doc
 #### validate
 
 |option|required|default|description|
-|-|-|-|-|
+|------|--------|-------|-----------|
 |url|yes||The jdbc url to use to connect to the database|
 |driver|no|_Auto-detected based on url_|The fully qualified classname of the jdbc driver to use to connect to the database|
 |user|no||The user to use to connect to the database|
